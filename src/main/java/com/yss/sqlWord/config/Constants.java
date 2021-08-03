@@ -15,7 +15,7 @@ public class Constants {
     /**
      * 生成文件名前缀
      */
-    public static final String FILE_NAME = "zf_cmmdpt_training";
+    public static final String FILE_NAME = "接口文档";
 
     /**
      * 生成文件地址

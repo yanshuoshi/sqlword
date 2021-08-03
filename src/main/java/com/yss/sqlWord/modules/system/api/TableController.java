@@ -16,7 +16,6 @@ public class TableController  {
     @Autowired
     ITableService tableService;
 
-    /*http://localhost:8080/api/tableToWord*/
     @GetMapping(value = "/tableToWord", name = "导出数据库表信息生成Word")
     public ApiResult tableToWord() {
         try {
